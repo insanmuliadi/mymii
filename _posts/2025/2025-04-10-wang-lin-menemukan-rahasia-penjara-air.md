@@ -6,6 +6,7 @@ categories: donghua
 tags: [xian ni, renegade immortal]
 description: 'Setelah diserang 2 kultivator Soul Transformation, Wang Lin kehilangan kultivasinya, Ia kemudian ditangkap dan dipenjara dan menemukan sebuah rahasia.'
 image: 'img/wang-lin-terluka.webp'
+published: false
 ---
 
 <figure>

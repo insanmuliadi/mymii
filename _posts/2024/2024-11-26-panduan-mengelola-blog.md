@@ -5,6 +5,7 @@ date: 2024-11-26 06:33
 tags: ["blogging", "manajemen", "pertumbuhan"]
 categories: ["Teknologi", "Panduan"]
 image: '/img/mobile-legend-2.webp'
+published: false
 ---
 
 <img alt="mobile legend" height="634" src="/.netlify/images?url=/img/mobile-legend-2.webp&fm=webp" width="1280">

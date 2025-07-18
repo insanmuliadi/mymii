@@ -6,6 +6,7 @@ date: 2024-11-25
 tags: ["blogging", "panduan", "pemula"]
 categories: ["Teknologi"]
 image: 'img/blogging-girl.webp'
+published: false
 ---
 
 <img alt="blogging" height="427" src="img/blogging-girl.webp" width="640">

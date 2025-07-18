@@ -4,6 +4,7 @@ author: "Jane Doe"
 date: 2024-11-26 04:24
 tags: ["blogging", "brand pribadi", "pengembangan diri"]
 categories: ["Teknologi", "Karier"]
+published: false
 toc: true
 ---
 
