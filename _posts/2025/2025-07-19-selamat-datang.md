@@ -10,3 +10,11 @@ published: true
 ---
 
 Selamat datang
+
+## Apa itu Mii?
+
+Mii merupakan sebuah laman website yang bertujuan untuk memberikan berbagai informasi yang bermanfaat.
+
+## Harapan Kami
+
+Besar harapan kami Mii bisa berkembang dan berkontribusi terhadap kemajuan di Indonesia.
