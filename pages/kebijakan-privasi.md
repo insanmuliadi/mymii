@@ -4,7 +4,7 @@ title: Kebijakan Privasi
 permalink: /kebijakan-privasi
 ---
 
-Anime Now sangat menghargai privasi pengguna kami. Berikut adalah kebijakan privasi kami:
+Mii sangat menghargai privasi pengguna kami. Berikut adalah kebijakan privasi kami:
 
 * **Pengumpulan Informasi**: Kami mengumpulkan informasi yang Anda berikan secara sukarela saat mendaftar, seperti alamat email dan nama pengguna. Kami juga mengumpulkan data penggunaan melalui cookies untuk meningkatkan pengalaman browsing Anda.
 * **Penggunaan Informasi**: Data yang kami kumpulkan digunakan untuk personalisasi konten, analisis situs, dan komunikasi pemasaran jika Anda memilih untuk berlangganan.
